@@ -68,6 +68,3 @@ python scripts/gold_enrichment_scd.py
 
 ---
 
-## 📂 License
-
-MIT License
