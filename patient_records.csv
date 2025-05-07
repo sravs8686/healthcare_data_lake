@@ -1,0 +1,7 @@
+patient_id,patient_name,diagnosis,diagnosis_date
+1,John Doe,Diabetes,2024-01-10
+2,Jane Smith,Hypertension,2024-01-12
+1,John Doe,Diabetes,2024-01-10
+1,John Doe,Asthma,2025-02-15
+2,Jane Smith,Hypertension,2024-01-12
+3,Alice Lee,Anemia,2025-03-20
